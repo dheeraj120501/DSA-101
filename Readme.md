@@ -8,7 +8,7 @@
 | :--: | -------------------------- | -------------------------------------------- |
 |  1   | Binary Search              | [Problem](./Binary%20Search)                 |
 |  2   | Recursion and Backtracking | [Problem](./Recursion%20and%20Backtracking/) |
-|  3   | Dynamic Programming        | [Problem](.)                                 |
+|  3   | Dynamic Programming        | [Problem](./Dynamic%20Programing/)           |
 |  4   | Two Pointers               | [Problem](.)                                 |
 |  5   | Islands (Matrix Traversal) | [Problem](.)                                 |
 |  6   | Slow and Fast Pointers     | [Problem](.)                                 |
